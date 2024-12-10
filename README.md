@@ -14,6 +14,7 @@ This repository contains a study project focused on creating an API using C# and
 - **SQL Server**: Database for data management.  
 - **Swagger**: Tool for documenting and testing the API.  
 
+---
 
 ### Versão em Português  
 # Integração de API com SQL Server e Swagger usando ASP.NET Core  
@@ -31,8 +32,4 @@ Este repositório contém um projeto de estudo focado na criação de uma API us
 - **SQL Server**: Banco de dados para gerenciamento dos dados.  
 - **Swagger**: Ferramenta para documentar e testar a API.  
 
-## Como Executar  
-1. Clone o repositório:  
-   ```bash  
-   git clone https://github.com/yourusername/API-SQLServer-Swagger-CSharp.git  
 
