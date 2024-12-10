@@ -16,7 +16,6 @@ This repository contains a study project focused on creating an API using C# and
 
 
 ### Versão em Português  
-```markdown
 # Integração de API com SQL Server e Swagger usando ASP.NET Core  
 
 Este repositório contém um projeto de estudo focado na criação de uma API usando C# e o framework ASP.NET Core. A API integra-se a um banco de dados SQL Server e implementa o Swagger para documentação da API.  
